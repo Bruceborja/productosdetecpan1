@@ -1,0 +1,21 @@
+{
+  "montoMinimo": 500,
+  "zigiLinks": [
+    {
+      "nombre": "Link principal",
+      "url": "https://pro.zigi.app/link/Q_D81fJfeX?YW1vdW50PTUwMC4wMCZkZXNjcmlwdGlvbj1EZSBkZSB0ZWNwYW4="
+    }
+  ],
+  "configRecibo": {
+    "encabezado": "Productos de Tecpan\nTecpán Guatemala\nTel: 1234-5678",
+    "pie": "¡Gracias por su compra!"
+  },
+  "clienteActual": {
+    "correo": "bruceborja2@gmail.com",
+    "nombre": "daniel borja",
+    "direccion": "calle los arboles 0-45 z2 panajachel solola",
+    "telefono": "50109285",
+    "nit": "354680",
+    "fechaRegistro": "28/6/2025, 19:52:42"
+  }
+}
